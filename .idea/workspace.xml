@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfedfe13-faed-4ebb-ae87-c061b3a66635" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/poetry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/jieba_userdict/jieba_userdict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/jieba_userdict/jieba_userdict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/nlu/weather.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/nlu/weather.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain.yml" beforeDir="false" afterPath="$PROJECT_DIR$/domain.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m35Vw5s57kGLlf9GdG0SCY87ma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="poetry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rasa-conversational-ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poetry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.poetry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfedfe13-faed-4ebb-ae87-c061b3a66635" name="Default Changelist" comment="" />
+      <created>1608709460525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608709460525</updated>
+      <workItem from="1608709465322" duration="997000" />
+      <workItem from="1608802656220" duration="188000" />
+      <workItem from="1608802859506" duration="417000" />
+      <workItem from="1608803286694" duration="2271000" />
+      <workItem from="1608861242308" duration="33000" />
+      <workItem from="1608861365339" duration="15000" />
+      <workItem from="1608861424534" duration="753000" />
+      <workItem from="1609229248618" duration="3634000" />
+      <workItem from="1609599529409" duration="119000" />
+      <workItem from="1609692976270" duration="4142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608804855430">
+      <screen x="0" y="23" width="1920" height="1087" />
+    </state>
+    <state x="424" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1087@0.23.1920.1087" timestamp="1608804855430" />
+    <state x="492" y="151" key="CommitChangelistDialog2" timestamp="1608804844769">
+      <screen x="0" y="23" width="1920" height="1087" />
+    </state>
+    <state x="492" y="151" key="CommitChangelistDialog2/0.23.1920.1087@0.23.1920.1087" timestamp="1608804844769" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1609379000475">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1609379000475" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1609379000473">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1609379000473" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1609379000470">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1609379000470" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1609379000474">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1609379000474" />
+    <state x="461" y="201" key="SettingsEditor" timestamp="1609233577554">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="461" y="201" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1609233577554" />
+    <state x="461" y="205" key="SettingsEditor/0.23.1920.1087@0.23.1920.1087" timestamp="1608803275123" />
+    <state x="661" y="321" width="598" height="490" key="find.popup" timestamp="1608804989237">
+      <screen x="0" y="23" width="1920" height="1087" />
+    </state>
+    <state x="661" y="321" width="598" height="490" key="find.popup/0.23.1920.1087@0.23.1920.1087" timestamp="1608804989237" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rasa_conversational_ai$poetry.coverage" NAME="poetry Coverage Results" MODIFIED="1609232785860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

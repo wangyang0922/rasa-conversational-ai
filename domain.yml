@@ -22,19 +22,7 @@ entities:
 - number
 - business
 slots:
-  date_time:
-    type: unfeaturized
-    auto_fill: false
-    influence_conversation: false
   address:
-    type: unfeaturized
-    auto_fill: false
-    influence_conversation: false
-  type:
-    type: unfeaturized
-    auto_fill: false
-    influence_conversation: false
-  number:
     type: unfeaturized
     auto_fill: false
     influence_conversation: false
@@ -42,8 +30,20 @@ slots:
     type: unfeaturized
     auto_fill: false
     influence_conversation: false
+  date_time:
+    type: unfeaturized
+    auto_fill: false
+    influence_conversation: false
+  number:
+    type: unfeaturized
+    auto_fill: false
+    influence_conversation: false
   requested_slot:
     type: unfeaturized
+    influence_conversation: false
+  type:
+    type: unfeaturized
+    auto_fill: false
     influence_conversation: false
 responses:
   utter_answer_affirm:
@@ -112,6 +112,3 @@ actions:
 - action_default_fallback
 - weather_form
 - number_form
-forms:
-  weather_form: {}
-  number_form: {}

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "\u5c31\u8fd9\u6837\u5427",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5605811476707458
+    }
+  },
+  {
+    "text": "\u4f60\u662f\u4e0d\u662f\u50bb",
+    "intent": "chitchat",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5402042269706726
+    }
+  },
+  {
+    "text": "\u6211\u60f3\u77e5\u9053\u660e\u5929\u7684\u5929\u6c14",
+    "intent": "request_weather",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5316989421844482
+    }
+  }
+]

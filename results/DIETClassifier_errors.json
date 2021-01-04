@@ -1,0 +1,41 @@
+[
+  {
+    "text": "\u67e5\u8be2\u7535\u8bdd19862618425",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "\u7535\u8bdd",
+        "entity": "type"
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "value": "19862618425",
+        "entity": "number"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "number",
+        "start": 4,
+        "end": 15,
+        "confidence_entity": 0.9998880624771118,
+        "value": "19862618425",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "\u6211\u60f3\u4e86\u89e3\u5f00\u623f\u8bb0\u5f55",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "\u5f00\u623f\u8bb0\u5f55",
+        "entity": "business"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

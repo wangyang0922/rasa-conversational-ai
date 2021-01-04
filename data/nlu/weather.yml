@@ -2,6 +2,10 @@ version: "2.0"
 nlu:
 - intent: request_weather
   examples: |
+    - 天气预报
+    - [明天](date_time)天气怎么样
+    - [今天](date_time)温度多少
+    - [后天](date_time)有[雨](weather)么
     - 查天气
     - 帮我查下天气
     - 告诉我天气怎么样
